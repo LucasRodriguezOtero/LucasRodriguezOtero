@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola, mi nombre es Lucas! 👋
 
-<!--
-**LucasRodriguezOtero/LucasRodriguezOtero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido/a a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+## Sobre mí
+Soy un apasionado por la tecnología y estoy a punto de recibirme como Analista de Sistemas de la Escuela Da Vinci. Me encanta aprender sobre nuevas tecnologías y disfruto trabajando en proyectos desafiantes que me permiten seguir creciendo profesionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conocimientos
+- **Lenguajes de Programación:** Java, PHP, Kotlin, C#, Python..
+- **Bases de Datos:** MySQL, SQL Server, Oracle..
+- **Desarrollo Web:** HTML, CSS, JavaScript.
+- **Sistemas Operativos:** Linux, Windows..
+- **Configuración de Redes:** TCP/IP, DNS, DHCP..
+- **Metodologías Ágiles:** Scrum, Kanban..
+
+## Proyectos
+Te invito a mirar mis proyectos:
+...
+
+¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
+
+¡Gracias por visitar mi perfil!
