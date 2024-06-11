@@ -1,4 +1,4 @@
-# ¡Hola, mi nombre es Lucas! 👋
+# ¡Hola, soy Lucas! 👋
 
 ¡Bienvenido/a a mi perfil de GitHub!
 
