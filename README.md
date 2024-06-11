@@ -14,7 +14,7 @@ Soy un apasionado por la tecnología y estoy a punto de recibirme como Analista 
 - **Metodologías Ágiles:** Scrum, Kanban..
 
 ## Proyectos
-Te invito a mirar mis proyectos:
+Te invito a mirar algunos de mis proyectos:
 ...
 
 ¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
