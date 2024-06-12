@@ -5,6 +5,8 @@
 ## Sobre mí
 Soy un apasionado por la tecnología y estoy a punto de recibirme como Analista de Sistemas de la Escuela Da Vinci. Me encanta aprender sobre nuevas tecnologías y disfruto trabajando en proyectos desafiantes que me permiten seguir creciendo profesionalmente.
 
+Aca podes ver el programa de mi carrera -> [Programa Analista de Sistemas-Davinci](https://drive.google.com/drive/folders/1rqS9JSaVJc8KypX6vNmlDT-v4FKHUYte)
+
 ## Conocimientos
 - **Lenguajes de Programación:** Java, PHP, Kotlin, C#, Python..
 - **Bases de Datos:** MySQL, SQL Server, Oracle..
