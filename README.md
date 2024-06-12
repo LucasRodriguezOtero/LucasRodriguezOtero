@@ -14,6 +14,7 @@ Aca podes ver el programa de mi carrera -> [Programa Analista de Sistemas-Davinc
 - **Sistemas Operativos:** Linux, Windows..
 - **Configuración de Redes:** TCP/IP, DNS, DHCP..
 - **Metodologías Ágiles:** Scrum, Kanban..
+- **Calidad de Software**
 
 Te invito a mirar algunos de mis proyectos...
   
